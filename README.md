@@ -52,9 +52,7 @@
   <a href="https://github.com/pranaydeepkhare/iso-ne-demand-forecast">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaydeepkhare&repo=iso-ne-demand-forecast&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/pranaydeepkhare/DataScientist-Intern-Assessment-UCONN-ITS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaydeepkhare&repo=DataScientist-Intern-Assessment-UCONN-ITS&theme=tokyonight&hide_border=true" />
-  </a>
+
   <a href="https://github.com/pranaydeepkhare/Golf-predictions-Statistics-ClassProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranaydeepkhare&repo=Golf-predictions-Statistics-ClassProject&theme=tokyonight&hide_border=true" />
   </a>
