@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pranaydeepkhare&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
